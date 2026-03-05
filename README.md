@@ -2,8 +2,9 @@
 
 Video Downloader for Mindvalley is a browser extension that saves videos from Mindvalley.com to your computer. Navigate to any lesson, press play, click the extension icon, select your quality, and it downloads as MP4. Works with Mindvalley's native HLS streams plus embedded Vimeo, YouTube, Loom, and Wistia videos. No extra software needed. 3 free downloads included.
 
-**Product page:** https://serp.ly/mindvalley-downloader
-**Help center:** https://help.serp.co/en/
+**Product page:** https://serp.ly/mindvalley-downloade<br>
+**Help center:** https://help.serp.co/en/<br>
+**Latest release:** [https://github.com/serpapps/mindvalley-video-downloader/releases/latest](https://github.com/serpapps/mindvalley-video-downloader/releases/latest)
 
 ## Why Mindvalley Video Downloader
 
