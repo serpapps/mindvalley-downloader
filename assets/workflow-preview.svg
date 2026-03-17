@@ -1,0 +1,26 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" rx="24" fill="#13321F"/>
+  <rect x="24" y="24" width="1152" height="372" rx="20" fill="#1E4A2E" stroke="#16A34A"/>
+  <text x="60" y="84" fill="#F0FDF4" font-family="Arial, sans-serif" font-size="34" font-weight="700">Mindvalley Downloader</text>
+  <text x="60" y="118" fill="#BBF7D0" font-family="Arial, sans-serif" font-size="18">Save lesson videos, quest content, and supported embedded course media</text>
+  <rect x="60" y="160" width="300" height="180" rx="18" fill="#255D3B"/>
+  <rect x="450" y="160" width="300" height="180" rx="18" fill="#255D3B"/>
+  <rect x="840" y="160" width="300" height="180" rx="18" fill="#255D3B"/>
+  <circle cx="112" cy="208" r="24" fill="#4ADE80"/>
+  <text x="104" y="216" fill="#14532D" font-family="Arial, sans-serif" font-size="18" font-weight="700">1</text>
+  <circle cx="502" cy="208" r="24" fill="#FACC15"/>
+  <text x="494" y="216" fill="#422006" font-family="Arial, sans-serif" font-size="18" font-weight="700">2</text>
+  <circle cx="892" cy="208" r="24" fill="#38BDF8"/>
+  <text x="884" y="216" fill="#082F49" font-family="Arial, sans-serif" font-size="18" font-weight="700">3</text>
+  <text x="150" y="214" fill="#F0FDF4" font-family="Arial, sans-serif" font-size="26" font-weight="700">Open the lesson</text>
+  <text x="150" y="248" fill="#DCFCE7" font-family="Arial, sans-serif" font-size="18">Start playback so the</text>
+  <text x="150" y="274" fill="#DCFCE7" font-family="Arial, sans-serif" font-size="18">extension can detect the video.</text>
+  <text x="540" y="214" fill="#F0FDF4" font-family="Arial, sans-serif" font-size="26" font-weight="700">Choose quality</text>
+  <text x="540" y="248" fill="#DCFCE7" font-family="Arial, sans-serif" font-size="18">Pick the source resolution</text>
+  <text x="540" y="274" fill="#DCFCE7" font-family="Arial, sans-serif" font-size="18">you want to keep offline.</text>
+  <text x="930" y="214" fill="#F0FDF4" font-family="Arial, sans-serif" font-size="26" font-weight="700">Study offline</text>
+  <text x="930" y="248" fill="#DCFCE7" font-family="Arial, sans-serif" font-size="18">Save the MP4 for travel,</text>
+  <text x="930" y="274" fill="#DCFCE7" font-family="Arial, sans-serif" font-size="18">review, or repeat learning.</text>
+  <path d="M372 250H438" stroke="#16A34A" stroke-width="6" stroke-linecap="round"/>
+  <path d="M762 250H828" stroke="#16A34A" stroke-width="6" stroke-linecap="round"/>
+</svg>
