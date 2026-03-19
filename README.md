@@ -136,22 +136,22 @@ Start here: [https://serp.ly/mindvalley-downloader](https://serp.ly/mindvalley-d
 
 ## FAQ
 
-**What kinds of Mindvalley videos can I download**  
+**What kinds of Mindvalley videos can I download?**  
 Supported lesson videos, quest videos, masterclass videos, and supported embedded lesson content on Mindvalley pages.
 
-**Do I need to press play first**  
+**Do I need to press play first?**  
 Yes. Many lesson streams are only exposed after playback begins.
 
-**What file format do downloads use**  
+**What file format do downloads use?**  
 Videos are saved as MP4 files.
 
-**Does it support embedded lesson providers**  
+**Does it support embedded lesson providers?**  
 Yes. The extension supports common providers such as Vimeo, YouTube, Loom, and Wistia when they appear on supported Mindvalley pages.
 
-**Where are videos saved**  
+**Where are videos saved?**  
 They are saved to your default Downloads location.
 
-**Do I need extra software**  
+**Do I need extra software?**  
 No. Everything runs through the browser extension.
 
 ## Notes
