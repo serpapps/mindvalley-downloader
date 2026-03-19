@@ -12,15 +12,15 @@ Mindvalley Downloader is a browser extension built for learners who want a simpl
 
 ## Links
 
-- 🚀 Get it here: [Mindvalley Downloader](https://serp.ly/mindvalley-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/mindvalley-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/mindvalley-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/mindvalley-downloader/issues)
+- ðŸš€ Get it here: [Mindvalley Downloader](https://serp.ly/mindvalley-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/mindvalley-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/mindvalley-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/mindvalley-downloader/issues)
 
 ## Preview
 
-![Mindvalley Downloader workflow preview](assets/workflow-preview.svg)
+![Mindvalley Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
