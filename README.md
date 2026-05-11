@@ -1,5 +1,11 @@
 # Mindvalley Downloader (Browser Extension)
 
+## Watch the video
+
+<a href="https://www.youtube.com/watch?v=x7rmeW9UuqA" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/mindvalley-downloader-save-videos-before-they-disappear.jpg" width="700px">
+</a>
+
 > Download Mindvalley course videos, quest lessons, and supported embedded lesson videos as MP4 files for offline study.
 
 Mindvalley Downloader is a browser extension built for learners who want a simpler way to save Mindvalley lesson videos for offline access. It works with supported Mindvalley-hosted streams as well as common embedded lesson providers, giving you a direct browser workflow for detecting the video, choosing a quality, and exporting an MP4 file you can replay later.
