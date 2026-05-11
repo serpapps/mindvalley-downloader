@@ -10,12 +10,6 @@ Mindvalley Downloader is a browser extension built for learners who want a simpl
 - Choose from the quality levels exposed by the source
 - Keep local files for offline study, note-taking, and review
 
-## Watch The Video
-
-<a href="https://www.youtube.com/watch?v=x7rmeW9UuqA" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/mindvalley-downloader-save-videos-before-they-disappear.jpg" width="700px">
-</a>
-
 ## Links
 
 - :rocket: Get it here: [Mindvalley Downloader](https://serp.ly/mindvalley-downloader)
@@ -26,7 +20,9 @@ Mindvalley Downloader is a browser extension built for learners who want a simpl
 
 ## Preview
 
-![Mindvalley Downloader workflow preview](https://raw.githubusercontent.com/serpapps/mindvalley-downloader/refs/heads/main/assets/workflow-preview.webp)
+<a href="https://www.youtube.com/watch?v=x7rmeW9UuqA" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/mindvalley-downloader-save-videos-before-they-disappear.jpg" width="700px">
+</a>
 
 ## Table of Contents
 
